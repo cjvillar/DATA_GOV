@@ -19,7 +19,8 @@ pivot_table = pd.pivot_table(df,
                              aggfunc=np.size,
                              fill_value=0)
 
-# plot the pivot table 
+
+# plot the pivot table  as bar chart
 pivot_table.plot.barh(figsize=(12,8),
                       title='Number Of Incidents By Category Based On Day Of The Week')
 plt.xlabel('Number of Incidents')
