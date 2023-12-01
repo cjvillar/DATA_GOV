@@ -10,7 +10,6 @@ df = pd.read_csv(file_path)
 column_names = [col for col in df.columns]
 #print(column_names)
 
-
 # Creating a pivot table using pandas
 pivot_table = pd.pivot_table(df, 
                              values='Incident Subcategory', 
