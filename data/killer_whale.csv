@@ -1,0 +1,3 @@
+IncidentNum,Date,Time,County,Location,Mode,Injury,Depth,Species,Comment,Longitude,Latitude,Confirmed Source,WFL Case #
+NOT COUNTED,07/20/1969,NULL,San Mateo,Pigeon Point,Freediving,minor*,surface*,Killer Whale,"Free diver attacked at surface, dragged under with minor cuts to foot - News reports state this is a killer whale, with confirmation from Steinhardt",-122.4083333,37.19166667,Santa Cruz Sentinel and San Bernadino Sun ,NULL
+NOT COUNTED,09/09/1972,NULL,Monterey,Point Sur,Surfing / Boarding,major*,surface*,Killer Whale,Surfer attacked with major injuries to legs - This is widely reported as a killer whale incident. Only Shark attack file says white shark,-121.8966667,36.31333333,Santa Cruz Sentinel and Desert Sun,NULL
